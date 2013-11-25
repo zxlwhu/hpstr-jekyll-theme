@@ -1,12 +1,12 @@
-title:            Site Title
+title:            Xueli's Personale page
 description:      Describe your website here.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://zxlwhu.tk
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Zhang Xueli
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
